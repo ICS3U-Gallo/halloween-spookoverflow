@@ -2,5 +2,6 @@
                                            
                                            
                we have a great maze game for Halloween,we have 3 level of mazes which is level 1,2,3
-               all you need to control the bot to pass the maze . 
+               all you need to do is to control the bot to pass the maze . 
+                                          enjoy the game!
                      
