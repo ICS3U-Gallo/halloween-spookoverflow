@@ -3,7 +3,6 @@
 import random
 import arcade
 import os
-from temp_maze import MakeMaze
 import time
 
 SCREEN_WIDTH = 1000
