@@ -69,7 +69,7 @@ class MyGame(arcade.Window):
         self.ShowMaze(self.maze_1)
         self.do_jumpscare = None
         self.jumpscare = arcade.sound.load_sound('harmless_sound_file2.mp3')
-        self.background_audio = arcade.sound.load_sound('Splashing_Around2.m4a')
+        self.background_audio = arcade.sound.load_sound('Splashing_Around.m4a')
         arcade.sound.play_sound(self.background_audio)
         self.play_button = arcade.load_texture("./assets/play_button.png")
         self.jumpscare_img = arcade.load_texture('./innocent_picture.jpg')
